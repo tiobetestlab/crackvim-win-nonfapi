@@ -240,7 +240,7 @@ int main(int argc, char *argv[]){
 	char *dict_filename;
 	FILE *dict = NULL;
 	int nbytes = 128;
-	double Δ_电场velocity;
+	double velocity;
 
 	if(argc < 2){
 		help();
