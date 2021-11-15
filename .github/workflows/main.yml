@@ -41,6 +41,6 @@ jobs:
           branchName: 'trunk'
           ticsViewerUrl: 'http://192.168.1.121:42506/tiobeweb/TICS'
           ticsAuthToken: 'NzY1NmE1NDYtZTBlOC00YmNiLTkxNzgtMzM0NmE2MDMzMzQ0OkdnKDQ9KyVONlAsLEM9Ng'
-          clientToken: 'crackvim-nonfapi'
+          clientToken: 'crackvimnonfapi'
           tmpDir: 'C:/BitBucket/RobotFramework/tmp/26652/plugin'
           calc: 'CS,CW'
