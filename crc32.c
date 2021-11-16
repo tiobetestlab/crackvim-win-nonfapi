@@ -35,7 +35,7 @@ crc() routine below)). */
 unsigned long update_crc(unsigned long crc, unsigned char *buf, int len)
 {
 	unsigned long c = crc;
-	int n;
+	int n, i;
 
 	if (!crc_table_computed)
 		make_crc_table();
